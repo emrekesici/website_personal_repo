@@ -5,8 +5,8 @@ languageCode: en-US
 contentdir: content
 layoutdir: layouts
 publishdir: public
-author: Panjim Goa
-title: Panjim Goa
+author: Emre Kesici
+title: Emre Kesici
 theme: hugo-goa
 enableRobotsTXT: yes
 params:
