@@ -11,7 +11,7 @@ theme: hugo-goa
 enableRobotsTXT: yes
 params:
   author: Emre Kesici, Ph.D, CAMS
-  authorimage: emre_photo.png
+  authorimage: emre_photo
   dateformat: Jan 2, 2006
   description: Corporate/Model Risk Auditor | Senior Quant at [Bank of America](https://business.bofa.com/content/boaml/en_us/home.html)
   extra:
