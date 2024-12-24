@@ -7,10 +7,8 @@ draft: false
 showpagemeta: true
 slug: ""
 tags:
-- Panjim Goa
-- GoaTech
-- innovation
-title: GoaTech's Rise
+- Emre Kesici
+title: 
 ---
 
 **Notes**: This article originally appeared on [GoaTech Insights](https://incirclemedia.com).
