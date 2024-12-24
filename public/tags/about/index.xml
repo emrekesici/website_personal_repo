@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Panjim Goa</title>
+    <link>http://localhost:4321/tags/about/</link>
+    <description>Recent content in About on Panjim Goa</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>&lt;p&gt;As a Corporate Risk Auditor at Bank of America, I leverage my PhD in Finance and more than 10 years of experience in capital markets, market risk, and data science to conduct in-depth audits of critical models, including those for AML, economic sanctions, and fraud detection. I assess and enhance the model risk management framework within the organization and collaborate closely with stakeholders across various departments to ensure a thorough understanding of model-related risks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

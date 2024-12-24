@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Panjim Goa</title>
+    <link>http://localhost:4321/tags/</link>
+    <description>Recent content in Tags on Panjim Goa</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:4321/tags/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:4321/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plot</title>
+      <link>http://localhost:4321/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:4321/tags/plot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Markdown</title>
+      <link>http://localhost:4321/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:4321/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:4321/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoaTech</title>
+      <link>http://localhost:4321/tags/goatech/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <guid>http://localhost:4321/tags/goatech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:4321/tags/innovation/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <guid>http://localhost:4321/tags/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Panjim Goa</title>
+      <link>http://localhost:4321/tags/panjim-goa/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <guid>http://localhost:4321/tags/panjim-goa/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

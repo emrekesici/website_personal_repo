@@ -1,0 +1,79 @@
+baseurl: https://shenoydotme.github.io/
+builddrafts: no
+canonifyurls: no
+languageCode: en-US
+contentdir: content
+layoutdir: layouts
+publishdir: public
+author: Panjim Goa
+title: Panjim Goa
+theme: hugo-goa
+enableRobotsTXT: yes
+params:
+  author: Emre Kesici, Ph.D, CAMS
+  authorimage: headshot.png
+  dateformat: Jan 2, 2006
+  description: Corporate/Model Risk Auditor | Senior Quant at [Bank of America](https://business.bofa.com/content/boaml/en_us/home.html)
+  extra:
+    copyright: © 2024. Panjim Goa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).
+    displayrssicon: no
+    highlightjs: no
+    poweredby: no
+    socialmarkup: no
+    toc: no
+  intro: Corporate/Model Risk Auditor | Senior Quant | SVP
+  meta:
+    description: Simple minimalist theme
+    keywords: minimalist,blog,goa,hugo,developer
+  social:
+    #bitbucket: <username>
+    #buymeacoffee: <username>
+    #email: you@example.com
+    #facebook: <username>
+    #fivehundredpx: <username>
+    #flickr: <username>
+    #foursquare: <username>
+    github: emrekesici
+    #gitlab: <username>
+    #goodreads: <username>
+    #google: <username>
+    googlescholar: <https://scholar.google.com/citations?user=rZDYJ-AAAAAJ&hl=en>
+    #hackernews: <username>
+    #holopin: <username>
+    #instagram: <username>
+    #kaggle: <username>
+    #keybase: <username>
+    #kickstarter: <username>
+    #lastfm: <username>
+    linkedin: emrekesici
+    orcid: 0000-0001-6880-1232
+    #patreon: <username>
+    #pgp: <key_fingerprint>
+    #pintrest: <username>
+    #reddit: <username>
+    #skype: <username>
+    #snapchat: <username>
+    #soundcloud: <username>
+    #stackoverflow: <username>
+    #steam: <username>
+    #strava: <username>
+    #telegram: <username>
+    #tumblr: <username>
+    #twitch: <username>
+    #twitter: <username>
+    #whatsapp: <username>
+    #youtube: <channelid>
+menu:
+  main:
+    #- identifier: posts
+      #name: posts
+      #url: posts/
+      #weight: 100
+    - identifier: about
+      name: About
+      url: about/
+      weight: 200
+    #- identifier: projects
+     # name: projects
+      #url: projects/
+      #weight: 300
