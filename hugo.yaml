@@ -13,7 +13,7 @@ params:
   author: Emre Kesici, Ph.D, CAMS
   authorimage: headshot.png
   dateformat: Jan 2, 2006
-  description: Corporate/Model Risk Auditor | Senior Quant at [Bank of America](https://business.bofa.com/content/boaml/en_us/home.html)
+  description: at [Bank of America](https://business.bofa.com/content/boaml/en_us/home.html)
   extra:
     copyright: © 2024. Emre Kesici. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).
     displayrssicon: no
@@ -21,7 +21,7 @@ params:
     poweredby: no
     socialmarkup: no
     toc: no
-  intro: Corporate/Model Risk Auditor | Senior Quant | SVP
+  intro: Senior Vice President | Senior Quant | Model Risk Auditor | Anti-Money Laundering Specialist
   meta:
     description: Simple minimalist theme
     keywords: minimalist,blog,goa,hugo,developer
